@@ -12,12 +12,12 @@
 ## Introduction
 This README provides a detailed step-by-step description on how to host resumes on GitHub using the concepts from **Etter's Book  Modern Technical Writing.**
 
-<img  src="resume.gif" alt="gif of a resume">
+<img  src="gifs/resume.gif" alt="gif of a resume">
 
 <br> <br>
 ## What is GitHub?
 
-<img  src="gitLogopng.png" alt="GitHub logo">
+<img  src="gifs/gitLogopng.png" alt="GitHub logo">
 
 [Github](https://www.youtube.com/watch?v=w3jLJU7DT5E&ab_channel=GitHub) is a code sharing and publishing platform which can connect people and facilitate them to work on a problem together from anywhere in the world. Github uses a feature called **Version Control** which keeps a track of all the changes done on the project by you or other developers.
 
@@ -30,7 +30,7 @@ The three features of GitHub `fork, pull request and merge` makes it so powerful
 
 ## What is MarkDown?
 
-<img src="markdown.gif" alt="GitHub logo">
+<img src="gifs/markdown.gif" alt="GitHub logo">
 
 </br>[Markdown](https://www.youtube.com/watch?v=f49LJV1i-_w&ab_channel=Codecademy) is a lightweight markup language used to add formating elements to unformated text, that makes writing for the internet easier. It has been widely adopted by the developer community because it is less time consuming to adopt and can be used for any writing purpose. 
 
@@ -73,7 +73,7 @@ A repository, also known as *Repo*, is a folder where all your project files are
 > This helps the reader.
 
 <br>
-<img  src="createRepo.gif" alt="gif of creating a Repository">
+<img  src="gifs/createRepo.gif" alt="gif of creating a Repository">
 
 
 #### 2. Add a file to the Repository
@@ -83,7 +83,7 @@ You can add more pages to your site by creating new files.
 * Give the file a name and an extension like .txt or .md, if going for `Create a file`, 
 * Click `Commit new file`.
 
-<img src="createFile.gif" alt="gif of adding a File"> 
+<img src="gifs/createFile.gif" alt="gif of adding a File"> 
 
 
 #### 3. Adding theme to the file
@@ -101,7 +101,7 @@ Jekyll theme can be added with the following steps:
 
 A new file, `_config.yml` should be created in your repo that stores all the Jekyll commands. 
 
-<br> <img src="theme.gif" alt="gif of adding a theme"> 
+<br> <img src="gifs/theme.gif" alt="gif of adding a theme"> 
 
 <br>
 
