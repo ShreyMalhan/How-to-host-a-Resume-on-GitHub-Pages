@@ -7,7 +7,6 @@
 * [Prerequisites](#prerequisites)
 * [Hosting Resume](#lets-get-started)
 * [More Resources](#more-resources) 
-* [Authors and Acknowledgement](#authors-and-acknowledgment)
 * [FAQ's](#faqs)
 ## Introduction
 This README provides a detailed step-by-step description on how to host resumes on GitHub using the concepts from **Etter's Book  Modern Technical Writing.**
@@ -119,17 +118,6 @@ A new file, `_config.yml` should be created in your repo that stores all the Jek
     * [Jekyll Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 * A link to [Andrew Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
-
-<br>
-
-### Authors and Acknowledgment
-
-**Author**
-* Shrey Malhan
-
-**Group Members**
-* Nicole Ciceron
-* Mohammad Inan
 
 <br>
 
